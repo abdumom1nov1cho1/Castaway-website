@@ -1,0 +1,250 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background: #191919;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+nav {
+  width: 100%;
+  height: 80px;
+  padding: 30px 0;
+}
+.all {
+  display: flex;
+  color: #ffff;
+  justify-content: space-between;
+  padding: 0;
+}
+ul li {
+  list-style: none;
+  text-decoration: none;
+}
+ul {
+  display: flex;
+  width: 40%;
+  justify-content: space-between;
+
+}
+ul li a {
+  color: #ffff;
+  text-decoration: none;
+}
+ul li :hover {
+  color:#118da8;
+  transition: s;
+}
+.ota {
+  width: 100%;
+}
+.card {
+  display: flex;
+  color: #fff;
+}
+.text {
+  padding: 200px;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 60px;
+}
+.text h6 {
+  padding: 30px;
+  display: flex;
+}
+.card img {
+  width: 100%;
+}
+.text img {
+  width: 245px;
+  height: 32px;
+}
+.leftrayt h1 {
+  color: #fff;
+  font-size: 64px;
+  font-weight: 400px;
+}
+.leftrayt {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.leftrayt button {
+  width: 178px;
+  height: 51px;
+  border-radius: 6px;
+  margin-top: 20px;
+  color: #fff;
+  background: #118da8;
+}
+.ota3 {
+  background: #000;
+  width: 100%;
+  height: max-content;
+  display: flex;
+  color: #fff;
+  padding: 20px;
+  border-radius: 32px;
+  margin-top: 30px;
+}
+.right {
+  margin-left: 40px;
+  padding: 45px;
+  font-size: 22px;
+  line-height: 48px;
+}
+.right p {
+  color: antiquewhite;
+}
+.left img {
+  border-radius: 10px;
+}
+.right a {
+  text-decoration: none;
+  color: #118da8;
+}
+.btn1 {
+  width: 73px;
+  height: 27px;
+  border-radius: 6px;
+  color: white;
+  background: #191919;
+}
+.btn2 {
+  width: 180px;
+  height: 27px;
+  border-radius: 6px;
+  background: #118da8;
+}
+.ota4 {
+  background: #000;
+  width: 100%;
+  height: max-content;
+  display: flex;
+  color: #fff;
+  padding: 20px;
+  border-radius: 32px;
+  margin-top: 30px;
+}
+.btn3 {
+  width: 136px;
+  height: 27px;
+  border-radius: 6px;
+  color: white;
+  background: #191919;
+}
+.ota5 {
+  background: #000;
+  width: 100%;
+  height: max-content;
+  display: flex;
+  color: #fff;
+  padding: 20px;
+  border-radius: 32px;
+  margin-top: 30px;
+  display: flex;
+}
+.ota6 {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.text1 {
+  color: #fff;
+  font-size: 20px;
+  padding-top: 200px;
+  line-height: 60px;
+}
+.text1 a {
+  text-decoration: none;
+  color: #118da8;
+}
+
+.card2 img {
+  margin-top: 100px;
+  height: 700px;
+}
+.ota7 {
+  display: flex;
+  justify-content: space-around;
+  background: #000;
+  width: 100%;
+  height: max-content;
+  display: flex;
+  color: #fff;
+  padding: 50px;
+  border-radius: 32px;
+  margin-top: 30px;
+}
+.left a {
+  text-decoration: none;
+  color: #118da8;
+}
+input {
+  background-color: #191919;
+}
+.right1 button {
+  margin-top: 30px;
+  background-color: #118da8;
+  color: #fff;
+  width: 80px;
+  height: 25px;
+  border-radius: 6px;
+}
+
+.input1 {
+  color: #fff;
+}
+.ota8 {
+  display: flex;
+  margin-top: 80px;
+}
+.card3 {
+  display: flex;
+  gap: 20px;
+}
+.card4 {
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+.ota9 {
+  display: flex;
+}
+.card5 h1 {
+  color: white;
+}
+.card5 .rasmm {
+  padding: 30px;
+}
+.card6 ul {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  line-height: 30px;
+}
+.card6 li {
+  color: #fff;
+}
+.card7 ul {
+  flex-direction: column;
+  line-height: 24px;
+}
+.card7 li {
+  color: white;
+}
+.oxirgi {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 60px;
+}
+.card8 img {
+  padding: 40px;
+}
